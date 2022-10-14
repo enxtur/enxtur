@@ -2,11 +2,6 @@
 
 <!--img src="https://komarev.com/ghpvc/?username=enxtur&style=flat-square&color=6cd63e"-->
 
-  
-<a href="https://victoreke.com">
-  <img src="https://raw.githubusercontent.com/enxtur/enxtur/main/cover.png" width="100%">
-</a>
-
 <!-- About Me -->
 ## About Me
 
