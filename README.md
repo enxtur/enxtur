@@ -1,41 +1,10 @@
-<picture>
-  <source
-    srcset="https://github-readme-stats-pi-indol-24.vercel.app/api?username=enxtur&include_all_commits=true&hide=stars&show=reviews&show_icons=true&hide_border=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-    height=200 align="center"
-  />
-  <source
-    srcset="https://github-readme-stats-pi-indol-24.vercel.app/api?username=enxtur&include_all_commits=true&hide=stars&show=reviews&show_icons=true&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    height=200 align="center"
-  />
-  <img src="https://github-readme-stats-pi-indol-24.vercel.app/api?username=enxtur&include_all_commits=true&hide=stars&show=reviews&show_icons=true&hide_border=true"
-    height=200 align="center"
-  />
-</picture>
-<picture>
-  <source
-    srcset="https://github-readme-stats-pi-indol-24.vercel.app/api/top-langs?username=enxtur&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-    height=200 align="center"
-  />
-  <source
-    srcset="https://github-readme-stats-pi-indol-24.vercel.app/api/top-langs?username=enxtur&layout=compact&langs_count=8&card_width=320&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    height=200 align="center"
-  />
-  <img src="https://github-readme-stats-pi-indol-24.vercel.app/api/top-langs?username=enxtur&layout=compact&langs_count=8&card_width=320&hide_border=true"
-    height=200 align="center"
-  />
-</picture>
-
 ## 👋 Hi, I'm Enkhtur
 
 Product-focused software engineer with 10+ years of experience building and evolving production systems. I specialize in backend development but work as a **generalist** — owning features end-to-end, making product trade-offs, and shipping real user-facing systems.
 
 I value long-term ownership, fast iteration, and learning from real-world consequences of technical decisions.
 
----
+<!-- ---
 
 ## 🧠 What I Do Best
 
@@ -43,7 +12,7 @@ I value long-term ownership, fast iteration, and learning from real-world conseq
 - Design and evolve APIs and data models with a focus on correctness, performance, and clarity  
 - Ship features independently in ambiguous, fast-moving environments  
 - Debug and resolve production issues end-to-end  
-- Balance engineering quality with product speed and constraints  
+- Balance engineering quality with product speed and constraints   -->
 
 ---
 
@@ -56,6 +25,13 @@ A Messenger-based booking product for small businesses (salons, clinics, barbers
 - Building backend APIs, scheduling logic, and messaging workflows  
 - Making product and technical trade-offs based on early usage and constraints  
 - Operating the product in production and iterating quickly  
+
+---
+
+## Current Projects
+
+- [inteview-aloud](https://interview-aloud.tech) - An open-source tool to help software engineers practice technical interviews by mimicking out loud.
+- [nx-caching-server](https://enxtur.github.io/nx-caching-server) - An open-source caching server for Nx build system to speed up CI/CD pipelines.
 
 ---
 
@@ -90,3 +66,33 @@ A Messenger-based booking product for small businesses (salons, clinics, barbers
 
 If you’re building a product and care about ownership, speed, and real impact — happy to connect.
 
+<picture>
+  <source
+    srcset="https://github-readme-stats-pi-indol-24.vercel.app/api?username=enxtur&include_all_commits=true&hide=stars&show=reviews&show_icons=true&hide_border=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+    height=200 align="center"
+  />
+  <source
+    srcset="https://github-readme-stats-pi-indol-24.vercel.app/api?username=enxtur&include_all_commits=true&hide=stars&show=reviews&show_icons=true&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    height=200 align="center"
+  />
+  <img src="https://github-readme-stats-pi-indol-24.vercel.app/api?username=enxtur&include_all_commits=true&hide=stars&show=reviews&show_icons=true&hide_border=true"
+    height=200 align="center"
+  />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats-pi-indol-24.vercel.app/api/top-langs?username=enxtur&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+    height=200 align="center"
+  />
+  <source
+    srcset="https://github-readme-stats-pi-indol-24.vercel.app/api/top-langs?username=enxtur&layout=compact&langs_count=8&card_width=320&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    height=200 align="center"
+  />
+  <img src="https://github-readme-stats-pi-indol-24.vercel.app/api/top-langs?username=enxtur&layout=compact&langs_count=8&card_width=320&hide_border=true"
+    height=200 align="center"
+  />
+</picture>
