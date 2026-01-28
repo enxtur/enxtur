@@ -68,31 +68,31 @@ If you’re building a product and care about ownership, speed, and real impact 
 
 <picture>
   <source
-    srcset="https://github-readme-stats-pi-indol-24.vercel.app/api?username=enxtur&include_all_commits=true&hide=stars&show=reviews&show_icons=true&hide_border=true&theme=dark"
+    srcset="./profile/stats-dark.svg"
     media="(prefers-color-scheme: dark)"
     height=200 align="center"
   />
   <source
-    srcset="https://github-readme-stats-pi-indol-24.vercel.app/api?username=enxtur&include_all_commits=true&hide=stars&show=reviews&show_icons=true&hide_border=true"
+    srcset="./profile/stats.svg"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     height=200 align="center"
   />
-  <img src="https://github-readme-stats-pi-indol-24.vercel.app/api?username=enxtur&include_all_commits=true&hide=stars&show=reviews&show_icons=true&hide_border=true"
+  <img src="./profile/stats.svg"
     height=200 align="center"
   />
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats-pi-indol-24.vercel.app/api/top-langs?username=enxtur&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=dark"
+    srcset="./profile/top-langs-dark.svg"
     media="(prefers-color-scheme: dark)"
     height=200 align="center"
   />
   <source
-    srcset="https://github-readme-stats-pi-indol-24.vercel.app/api/top-langs?username=enxtur&layout=compact&langs_count=8&card_width=320&hide_border=true"
+    srcset="./profile/top-langs.svg"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     height=200 align="center"
   />
-  <img src="https://github-readme-stats-pi-indol-24.vercel.app/api/top-langs?username=enxtur&layout=compact&langs_count=8&card_width=320&hide_border=true"
+  <img src="./profile/top-langs.svg"
     height=200 align="center"
   />
 </picture>
