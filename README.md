@@ -1,37 +1,27 @@
 ## 👋 Hi, I'm Enkhtur
 
-Product-focused software engineer with 10+ years of experience building and evolving production systems. I specialize in backend development but work as a **generalist** — owning features end-to-end, making product trade-offs, and shipping real user-facing systems.
+I'm a software engineer with 10+ years of experience, mostly working on backend systems. I usually take a generalist approach — picking up whatever is needed to move a product forward and seeing features through from idea to production.
 
-I value long-term ownership, fast iteration, and learning from real-world consequences of technical decisions.
-
-<!-- ---
-
-## 🧠 What I Do Best
-
-- Own backend systems over multiple years, iterating based on production usage and real feedback  
-- Design and evolve APIs and data models with a focus on correctness, performance, and clarity  
-- Ship features independently in ambiguous, fast-moving environments  
-- Debug and resolve production issues end-to-end  
-- Balance engineering quality with product speed and constraints   -->
+I care about building things that are useful, maintainable, and shaped by real usage rather than theory.
 
 ---
 
 ## 🚀 Current Focus
 
 ### Founder & Product Engineer — **msngrbot.com**
-A Messenger-based booking product for small businesses (salons, clinics, barbers).
+A Messenger-based booking tool for small businesses (salons, clinics, barbers).
 
-- Designing product flows to minimize onboarding friction  
-- Building backend APIs, scheduling logic, and messaging workflows  
-- Making product and technical trade-offs based on early usage and constraints  
-- Operating the product in production and iterating quickly  
+- Working on scheduling logic, backend APIs, and messaging flows  
+- Trying to reduce onboarding friction for small business owners  
+- Making practical trade-offs based on constraints and early feedback  
+- Running and maintaining the product in production  
 
 ---
 
 ## Current Projects
 
-- [inteview-aloud](https://interview-aloud.tech) - An open-source tool to help software engineers practice technical interviews by mimicking out loud.
-- [nx-caching-server](https://enxtur.github.io/nx-caching-server) - An open-source caching server for Nx build system to speed up CI/CD pipelines.
+- [interview-aloud](https://interview-aloud.tech) — An open-source tool to help developers practice technical interviews by speaking answers out loud.
+- [nx-caching-server](https://enxtur.github.io/nx-caching-server) — A small open-source caching server to speed up Nx-based CI/CD pipelines.
 
 ---
 
@@ -39,10 +29,10 @@ A Messenger-based booking product for small businesses (salons, clinics, barbers
 
 ### Senior Backend Engineer — UNOPS / Humanitarian Programme Cycle (HPC)
 
-- Owned and evolved core backend APIs used in humanitarian planning and monitoring workflows over 3+ years  
-- Designed embedded calculations and data models consolidating People in Need, funding, and response metrics  
-- Iterated on long-lived systems based on production behavior, improving reliability and performance  
-- Took responsibility for production issues, debugging complex data and shipping safe fixes  
+- Worked on backend APIs used in humanitarian planning and monitoring workflows  
+- Helped design and maintain data models and calculations for planning and funding metrics  
+- Spent time debugging production issues and improving reliability over multiple iterations  
+- Maintained long-lived systems and shipped incremental improvements based on real usage  
 
 ---
 
@@ -50,21 +40,21 @@ A Messenger-based booking product for small businesses (salons, clinics, barbers
 
 - **Languages:** TypeScript, JavaScript, SQL  
 - **Backend:** Node.js, REST APIs, data modeling  
-- **Databases:** PostgreSQL  
-- **Product & Delivery:** feature ownership, iteration, trade-offs, user feedback loops  
-- **Infra & DevEx:** Docker, CI/CD, testing, production debugging  
+- **Databases:** PostgreSQL, MongoDB
+- **Ways of working:** feature ownership, iteration, debugging production issues  
+- **Infra & tooling:** Docker, CI/CD, testing  
 
 ---
 
 ## 🌍 Availability
 
 - Comfortable overlapping with **EU (CET)** and **US** time zones  
-- Interested in **product-driven, early-stage or growth-stage startups**  
-- Open to remote-first teams  
+- Interested in **product-focused teams** and early-stage environments  
+- Open to remote-first work  
 
 ---
 
-If you’re building a product and care about ownership, speed, and real impact — happy to connect.
+If you’re working on a product and looking for someone who enjoys steady progress and ownership, feel free to reach out.
 
 <picture>
   <source
