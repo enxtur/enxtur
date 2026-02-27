@@ -48,17 +48,6 @@ I care about building things that are useful, maintainable, and shaped by real u
 
 ---
 
-## 🏗️ Professional Experience
-
-### Senior Backend Engineer — UNOPS / Humanitarian Programme Cycle (HPC)
-
-- Worked on backend APIs used in humanitarian planning and monitoring workflows  
-- Helped design and maintain data models and calculations for planning and funding metrics  
-- Spent time debugging production issues and improving reliability over multiple iterations  
-- Maintained long-lived systems and shipped incremental improvements based on real usage  
-
----
-
 ## 🛠️ Tech & Skills
 
 - **Languages:** TypeScript, JavaScript, SQL  
