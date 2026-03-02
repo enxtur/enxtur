@@ -15,6 +15,15 @@ I care about building things that are useful, maintainable, and shaped by real u
 
 ---
 
+## Legacy Contributions
+
+- [HPC](https://humanitarianaction.info) - A humanitarian programme cycle management system for UN OCHA
+- [FTS](https://fts.unocha.org) - A financial tracking system for UN OCHA
+- [UB Info](https://ubinfo.mn/app) - Daily news aggregator for the Mongolian news websites
+
+---
+
+
 <picture>
   <source
     srcset="./profile/stats-dark.svg"
