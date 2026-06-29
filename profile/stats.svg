@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">enxtur's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Commits  : 11181, Total PRs: 874, Total PRs Reviewed: 261, Total Issues: 131, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Commits  : 11181, Total PRs: 874, Total PRs Reviewed: 260, Total Issues: 131, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="reviews"
-      >261</text>
+      >260</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
