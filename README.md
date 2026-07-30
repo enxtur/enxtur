@@ -8,15 +8,14 @@ I care about building things that are useful, maintainable, and shaped by real u
 
 ## Current Projects
 
-- [landing-kit](https://enxtur.github.io/landing-kit) — Disruptive landing page builder… just kidding. It’s a tiny Next.js wrapper that lets you build a landing page from a single config.ts
 - [msngrbot.com](https://msngrbot.com) — A Messenger-based booking tool for small businesses (salons, clinics, barbers).
-- [nx-caching-server](https://enxtur.github.io/nx-caching-server) — A small open-source caching server to speed up Nx-based CI/CD pipelines.
-- [interview-aloud](https://interview-aloud.tech) — An open-source tool to help developers practice technical interviews by speaking answers out loud.
 
 ---
 
-## Legacy Contributions
+## Legacy Projects
 
+- [nx-caching-server](https://enxtur.github.io/nx-caching-server) — A small open-source caching server to speed up Nx-based CI/CD pipelines.
+- [interview-aloud](https://interview-aloud.tech) — An open-source tool to help developers practice technical interviews by speaking answers out loud.
 - [HPC](https://humanitarianaction.info) - A humanitarian programme cycle management system for UN OCHA
 - [FTS](https://fts.unocha.org) - A financial tracking system for UN OCHA
 - [UB Info](https://ubinfo.mn/app) - Daily news aggregator for the Mongolian news websites
