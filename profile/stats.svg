@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">enxtur's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Commits  : 12342, Total PRs: 1099, Total PRs Reviewed: 230, Total Issues: 131, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Commits  : 12347, Total PRs: 1100, Total PRs Reviewed: 233, Total Issues: 131, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 78.59538474293436;
+        stroke-dashoffset: 78.59535661998223;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="reviews"
-      >230</text>
+      >233</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
